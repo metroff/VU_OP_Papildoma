@@ -8,6 +8,7 @@
 #include <iomanip>
 #include <algorithm>
 
+// Papildoma žodžio info
 class WordData {
     public:
         int count;
@@ -16,13 +17,16 @@ class WordData {
     WordData(int lineNum) : count{1}, containingLines{lineNum} {}
 };
 
+// Regex išraiškos
 const std::regex word_expression("[.%,?!/;:\"'()\\]\\[*0-9]");
 const std::regex url_expression("(((https?)://)?www\\.)?[a-zA-Z0-9@:%._\\-+~#?&/=]{2,256}\\.[a-z]{2,6}\\b([a-zA-Z0-9@:%._\\-+~#?&/=]*)");
 
+// Žodis išvalomas nuo simbolių
 std::string cleanWord(std::string word) {
     return std::regex_replace(word, word_expression, "");
 }
 
+// Tikrinama ar žodis atitinka URL tipą
 bool isURL(std::string word) {
     return std::regex_match(word, url_expression);
 }
@@ -39,6 +43,7 @@ bool yesNoQuestion(std::string question) {
     return answer == "y";
 }
 
+// Naujo žodžio pridėjimas
 void insertWord(std::string word, std::map<std::string, WordData> &words, int lineNum) {
     if (!word.empty() && word != "-" && word != "–") {
         auto searchResult = words.find(word);
@@ -54,6 +59,7 @@ void insertWord(std::string word, std::map<std::string, WordData> &words, int li
     }
 }
 
+// Spausdinama žodžių ir jų kartų lentelė
 void printWordTable(std::map<std::string, WordData> &words) {
     std::stringstream buffer;
 
@@ -71,6 +77,7 @@ void printWordTable(std::map<std::string, WordData> &words) {
     table.close();
 }
 
+// Spausdinama žodžių ir eilnučių, kuriuose jie yra lentelė
 void printCrossReferenceTable(std::map<std::string, WordData> &words, int lineNum) {
     std::stringstream buffer;
 
@@ -86,6 +93,7 @@ void printCrossReferenceTable(std::map<std::string, WordData> &words, int lineNu
         if (word.second.count > 1) {
             buffer << std::setw(21) << std::left << word.first << "\t";
             int currentNumber = 0;
+            // Kiekvienai eilutei pridedamas * simbolis
             for (auto number : word.second.containingLines) {
                 int numberOfSpaces = number - currentNumber;
                 buffer << std::string(numberOfSpaces*(spaceLen+1)-2, ' ') << "* ";
@@ -100,6 +108,7 @@ void printCrossReferenceTable(std::map<std::string, WordData> &words, int lineNu
     table.close();
 }
 
+// Spausdinami visi rasti URL
 void printUrls(std::vector<std::string> &urls) {
     std::stringstream buffer;
 
@@ -117,6 +126,7 @@ int main() {
     std::map<std::string, WordData> words;
     std::vector<std::string> urls;
 
+    // Failo radimas
     std::string fileName;
     std::cout << "Irasykite failo pavadinima: ";
     std::cin >> fileName;
@@ -132,6 +142,7 @@ int main() {
         return 0;
     }
 
+    // Žodžių apdorojimas
     bool lowerCase = yesNoQuestion("Keisti raides i mazasias? ");
 
     std::string line;
@@ -152,6 +163,8 @@ int main() {
         }
         lineNumber++;
     }
+
+    // Spausdinimas
 
     printWordTable(words);
     printCrossReferenceTable(words, lineNumber);
