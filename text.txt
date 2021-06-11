@@ -5,10 +5,7 @@ Vilnius is classified as a Gamma global city according to GaWC studies,[13] and 
 
 The name of the city originates from the Vilnia River, from the Lithuanian for ripple.[18] The city has also had many derivative spellings in various languages throughout its history: Vilna was once common in English. The most notable non-Lithuanian names for the city include Polish: Wilno, Belarusian: Вiльня (Viĺnia), German: Wilna, Latvian: Viļņa, Ukrainian: Вільно (Vilno), Yiddish: ווילנע‎ (Vilne). A Russian name from the time of the Russian Empire was Вильна (Vilna),[19][20] although Вильнюс (Vilnyus) is now used. The names Wilno, Wilna and Vilna were also used in older English, German, French and Italian language publications when the city was one of the capitals of the Polish–Lithuanian Commonwealth and an important city in the Second Polish Republic. The name Vilna is still used in Finnish, Portuguese, Spanish, and Hebrew. Wilna is still used in German, along with Vilnius.
 
-https://www.vu.lt
 http://www.vu.lt
-vu.lt
-www.vu.lt
 
 The neighborhoods of Vilnius also have names in other languages, which represent the languages spoken by various ethnic groups in the area.
 
@@ -30,6 +27,8 @@ Vilnius' location offered practical advantages: it lay in the Lithuanian heartla
 At the time of the 14th century, Lithuania was continuously invaded by the State of the Teutonic Order.[26] The future King of England Henry IV (then Henry Bolingbroke) spent a full year of 1390 supporting the unsuccessful siege of Vilnius by Teutonic Knights with his 300 fellow knights. During this campaign he bought captured Lithuanian women and children and took them back to Königsberg for their conversion.[27] King Henry's second expedition to Lithuania in 1392 illustrates the financial benefits of these guest crusaders to the Order. His small army consisted of over 100 men, including longbow archers and six minstrels, at a total cost to the Lancastrian purse of £4,360. Despite the efforts of Bolingbroke and his English crusaders, two years of attacks on Vilnius proved fruitless.[28]
 Palace of the Grand Dukes of Lithuania and Grand Duke Gediminas Monument with the howling iron wolf
 
+github.com/metroff/VU_OP_Papildoma
+
 Vilnius was the flourishing capital of the Grand Duchy of Lithuania, the residence of the Grand Duke. Gediminas expanded the Grand Duchy through warfare along with strategic alliances and marriages.[23] At its height it covered the territory of modern-day Lithuania, Belarus, Ukraine, Transnistria, and portions of modern-day Poland and Russia. His grandchildren Vytautas the Great and Jogaila, however, fought civil wars. During the Lithuanian Civil War of 1389–1392, Vytautas besieged and razed the city in an attempt to wrest control from Jogaila.[23] The two Gediminids cousins later settled their differences; after a series of treaties culminating in the 1569 Union of Lublin, the Polish–Lithuanian Commonwealth was formed. The Commonwealth's rulers held two titles: Grand Duke of Lithuania and King of Poland. In 1387, Jogaila acting as a Grand Duke of Lithuania and King of Poland, granted Magdeburg rights to the city.[23] The city underwent a period of expansion in the 16th century. The Wall of Vilnius were built for protection between 1503 and 1522, comprising nine city gates and three towers,[23] and Sigismund II Augustus moved his court there in 1544.
 "I saw as many jewels as I did not expect to find accumulated in one place; with them the treasures of Venice and the Pope, which I have also seen, cannot be compared."
 
@@ -45,6 +44,8 @@ The 17th century brought a number of setbacks. The Commonwealth was involved in 
 La Grande Armée in Vilnius during its retreat (near the Vilnius Town Hall). In the beginning of his invasion of Russia, Napoleon established the Lithuanian Provisional Governing Commission, with the nobility seeing him as a liberator.
 In the Russian Empire
 
+randomlink.com
+
 The fortunes of the Commonwealth declined during the 18th century. Three partitions took place, dividing its territory among the Russian Empire, the Habsburg Empire, and the Kingdom of Prussia. Forces led by Jakub Jasiński expelled Russians from Vilnius during the uprising in 1794.[32] Although, after the third partition of April 1795, Vilnius was annexed by the Russian Empire and became the capital of the Vilna Governorate. During Russian rule, the city walls were destroyed, and by 1805 only the Gate of Dawn remained. In 1812, the city was taken by Napoleon on his push towards Moscow, and again during the disastrous retreat. The Grande Armée was welcomed in Vilnius. Thousands of soldiers died in the city during the eventual retreat; the mass graves were uncovered in 2002.[26] Inhabitants expected Tsar Alexander I to grant them autonomy in response to Napoleon's promises to restore the Commonwealth, but Vilnius did not become autonomous, neither by itself nor as a part of Congress Poland.
 
 Following the November uprising in 1831, Vilnius University was closed and Russian repressions halted the further development of the city. Civil unrest in 1861 was suppressed by the Imperial Russian Army.[33]
@@ -58,6 +59,8 @@ World War I
 
 During World War I, Vilnius and the rest of Lithuania was occupied by the German Army from 1915 until 1918.[40] The Act of Independence of Lithuania, which declared Lithuanian independence without any affiliation to any other nation, was issued in the city on 16 February 1918 with Vilnius as its capital.[41]
 Regional turmoil 1918–1920
+
+www.delfi.lt
 
 At the end of 1918 Soviet Russia invaded Lithuania with massive forces, and the Lithuanian Army withdrew from Vilnius to the center of the country in order to form a defense line. The German Army withdrew together with the Lithuanian government. The Self-Defence of Lithuania, which was affiliated with the Second Polish Republic, briefly controlled the city and unsuccesfully tried protecting it against the invading Soviet forces. Vilnius changed hands again during the Polish–Soviet War and the Lithuanian Wars of Independence: it was taken by the Polish Army, only to fall to Soviet forces again. Shortly after the Red Army's defeat at the 1920 Battle of Warsaw, in order to delay the Polish advance, the Soviet government ceded the city to Lithuania after the signing the Soviet–Lithuanian Peace Treaty on 12 July 1920.[42]
 

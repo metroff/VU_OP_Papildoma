@@ -1,6 +1,6 @@
 Urls:
 https://en.wikipedia.org/wiki/Vilnius
-https://www.vu.lt
 http://www.vu.lt
-vu.lt
-www.vu.lt
+github.com/metroff/VU_OP_Papildoma
+randomlink.com
+www.delfi.lt
